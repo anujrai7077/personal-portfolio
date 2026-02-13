@@ -1,0 +1,19 @@
+/* About Styles - keeping it simple as global styles handle most text */
+.about-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-color);
+    opacity: 0.9;
+}
+
+.about-text p {
+    margin-bottom: 1.5rem;
+}
+
+@media (max-width: 768px) {
+    .about-text {
+        text-align: left;
+        /* Better readability on mobile */
+        font-size: 1rem;
+    }
+}

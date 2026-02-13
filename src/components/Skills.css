@@ -1,0 +1,17 @@
+/* Skills Styles */
+.skill-card {
+    /* Inherits some styles from global/component JS inline styles for motion, 
+     but defining basics here */
+    transition: box-shadow 0.3s ease, border-color 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    text-align: center;
+}
+
+.skill-card:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.1);
+    color: var(--primary-color);
+}
