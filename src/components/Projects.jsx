@@ -16,10 +16,10 @@ const projects = [
         links: { demo: "https://anuj-personal-portfolio.vercel.app/", repo: "https://github.com/anujrai7077/personal-portfolio.git" }
     },
     {
-        title: "PAIG",
-        description: "PAIG (Pronounced similar to paige or payj) is an open-source project designed to protect Generative AI (GenAI) applications by ensuring security, safety, and observability. As the technologies and approaches for writing GenAI applications evolve rapidly, PAIG offers a versatile framework that addresses the latest security and safety challenges and enables the integration of point security and safety solutions without requiring applications to be rewritten.",
+        title: "Trust3 AI",
+        description: "Trust3 AI is an open-source project designed to protect Generative AI (GenAI) applications by ensuring security, safety, and observability. As the technologies and approaches for writing GenAI applications evolve rapidly, Trust3 AI offers a versatile framework that addresses the latest security and safety challenges and enables the integration of point security and safety solutions without requiring applications to be rewritten.",
         tags: ["Open Source", "GenAI Security", "Python"],
-        links: { demo: "#", repo: "https://github.com/anujrai7077/paig.git" }
+        links: { demo: "https://trust3.ai/", repo: "https://github.com/anujrai7077/paig.git" }
     }
 ];
 
