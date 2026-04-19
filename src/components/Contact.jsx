@@ -40,7 +40,7 @@ const Contact = () => {
                             </div>
                             <div className="contact-item">
                                 <MapPin className="contact-icon" />
-                                <span>Lucknow, Uttar Pradesh</span>
+                                <span>Noida, Uttar Pradesh, India</span>
                             </div>
                         </div>
                     </motion.div>
