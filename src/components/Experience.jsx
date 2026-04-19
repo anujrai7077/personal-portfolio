@@ -8,7 +8,7 @@ const experiences = [
         role: "Software Developer Intern ",
         company: "Privacera.",
         date: " Nov 2024 - June 2025 ",
-        description: (" Acquired hands-on experience with Python, React, JavaScript, CSS, and HTML.Contributed to an open-source project (PAIG OSS).Collaborated with team members to ensure responsive and user-friendly designs.")
+        description: (" Acquired hands-on experience with Python, React, JavaScript, CSS, and HTML.Contributed to an open-source project (PAIG OSS Also Known as Trust3 AI).Collaborated with team members to ensure responsive and user-friendly designs.")
     },
     {
         id: 2,
