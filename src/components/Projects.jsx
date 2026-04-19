@@ -13,7 +13,7 @@ const projects = [
         title: "Portfolio Website",
         description: "A modern, responsive portfolio website showcasing projects, skills, and professional experience with smooth animations and interactive UI.",
         tags: ["React.js", "Tailwind CSS", "Responsive Design"],
-        links: { demo: "https://personal-portfolio-two-delta-30.vercel.app/", repo: "https://github.com/anujrai7077/personal-portfolio.git" }
+        links: { demo: "https://anuj-personal-portfolio.vercel.app/", repo: "https://github.com/anujrai7077/personal-portfolio.git" }
     },
     {
         title: "PAIG",
